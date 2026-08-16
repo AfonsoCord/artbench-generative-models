@@ -1,4 +1,4 @@
-# Project 1: Generative Modeling on ArtBench-10
+# Project: Generative Modeling on ArtBench-10
 
 Training and comparison of four generative approaches, a Variational AutoEncoder, a Generative Adversarial Network, a Denoising Diffusion Probabilistic Model, and a DDPM combined with a VAE, on the ArtBench-10 dataset of paintings across 10 artistic styles.
 
